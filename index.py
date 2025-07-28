@@ -4,4 +4,4 @@ if text == text[::-1]:
     else:
         print("Not a Palindrome")
 
-
+return 0
